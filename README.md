@@ -6,4 +6,3 @@ Once you've gained access to the repository, add your name here:
 - Tariq
 - Guy
 - Smrithi
-- Vrushtee
